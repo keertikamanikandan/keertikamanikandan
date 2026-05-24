@@ -14,7 +14,7 @@ I am an aspiring Data Analyst / Junior Data Scientist passionate about turning d
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQL](https://img.shields.io/badge/SQL-orange)
 ![Tableau](https://img.shields.io/badge/Tableau-blue)
-![Pandas](https://img.shields.io/badge/Pandas-black)
+![Pandas](https://img.shields.io/badge/Pandas-white)
 
 ---
 
