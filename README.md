@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Keertika 👋
 
-<!--
-**keertikamanikandan/keertikamanikandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst / Junior Data Scientist focused on:
 
-Here are some ideas to get you started:
+- SQL
+- Python
+- Tableau
+- E-commerce Analytics
+- Product Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### E-commerce Discount Strategy Analysis
+Analyzed whether discounts improve sales performance using Python.
+
+### A/B Testing Analysis
+Performed statistical testing to evaluate user engagement across website versions.
+
+### Magist Marketplace Evaluation
+Analyzed seller performance and business trends in e-commerce data.
+
+## Tools & Technologies
+- Python
+- Pandas
+- SQL
+- Tableau
+- Jupyter Notebook
+
+## Currently Learning
+- Advanced SQL
+- Tableau Dashboards
+- Product Analytics
