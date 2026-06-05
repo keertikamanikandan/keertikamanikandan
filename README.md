@@ -12,7 +12,7 @@ I am an aspiring Data Analyst / Data Engineer passionate about transforming raw 
 
 I enjoy working with **SQL, Python, and data pipelines**, and I am actively building real-world projects in **ETL systems and e-commerce analytics**.
 
-My goal is to design **data-driven systems that support business decision-making and analytics at scale**.
+My goal is to design and develop **data-driven systems that support business decision-making at scale**.
 
 ---
 
@@ -55,7 +55,7 @@ My goal is to design **data-driven systems that support business decision-making
 ### 📊 E-commerce Discount Strategy Analysis
 - Analyzed impact of discounts on sales performance  
 - Identified optimal discount levels using Python  
-- Generated business insights for revenue optimization
+- Generated business insights for revenue optimization  
 
 🔗 https://github.com/keertikamanikandan/eniac-discount-strategy-analysis
 
@@ -64,7 +64,7 @@ My goal is to design **data-driven systems that support business decision-making
 ### 🧪 A/B Testing Analysis
 - Performed statistical testing on user engagement data  
 - Used Chi-square tests to compare website versions  
-- Evaluated performance of different user experiences
+- Evaluated performance of different user experiences  
 
 🔗 https://github.com/keertikamanikandan/eniac-ab-testing-analysis
 
@@ -73,7 +73,7 @@ My goal is to design **data-driven systems that support business decision-making
 ### 🛒 Magist Marketplace Evaluation
 - Analyzed seller performance and delivery trends  
 - Identified operational and geographic insights  
-- Delivered business recommendations using data analysis
+- Delivered business recommendations using data analysis  
 
 🔗 https://github.com/keertikamanikandan/MagistEval
 
@@ -81,17 +81,17 @@ My goal is to design **data-driven systems that support business decision-making
 
 ## 📈 Currently Learning
 
-- Advanced SQL (window functions, optimization)  
-- Data Engineering concepts (ETL, pipelines, cloud basics)  
-- Tableau dashboards & storytelling  
-- Product analytics & experimentation  
+- Advanced SQL (window functions, optimization techniques)  
+- Data Engineering concepts (ETL pipelines, cloud fundamentals)  
+- Tableau dashboards and data storytelling  
+- Product analytics and experimentation methods  
 
 ---
 
 ## 📊 GitHub Activity
 
 - Building real-world ETL pipelines using Python & SQL  
-- Working on data analysis and API-based projects  
+- Developing data analysis and API integration projects  
 - Focused on data engineering and analytics systems  
 
 ---
