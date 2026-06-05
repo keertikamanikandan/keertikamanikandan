@@ -2,15 +2,17 @@
 
 Data Analyst | Aspiring Data Engineer | Python | SQL | Tableau | Product & E-commerce Analytics
 
+![Profile Views](https://komarev.com/ghpvc/?username=keertikamanikandan&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ## 👩‍💻 About Me
 
-I am an aspiring Data Analyst / Data Engineer passionate about transforming raw data into meaningful business insights and scalable data solutions.  
+I am an aspiring Data Analyst / Data Engineer passionate about transforming raw data into meaningful insights and scalable data solutions.
 
-I enjoy working with **SQL, Python, and data pipelines**, and I am currently building real-world projects in **e-commerce analytics and ETL systems**.
+I enjoy working with **SQL, Python, and data pipelines**, and I am actively building real-world projects in **ETL systems and e-commerce analytics**.
 
-My goal is to work on **data-driven products and analytics systems that support business decision-making**.
+My goal is to design **data-driven systems that support business decision-making and analytics at scale**.
 
 ---
 
@@ -30,6 +32,7 @@ My goal is to work on **data-driven products and analytics systems that support 
 - SQL for data extraction, joins, and analysis  
 - Python (Pandas, NumPy) for data processing  
 - ETL pipeline development (API + database integration)  
+- MySQL database design and relational modeling  
 - Tableau for dashboards and storytelling  
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
@@ -39,9 +42,9 @@ My goal is to work on **data-driven products and analytics systems that support 
 
 ## 🚀 Featured Projects
 
-### 🌍 Multi-Source ETL Pipeline (GANS)
-- Built an end-to-end ETL pipeline integrating multiple APIs and datasets  
-- Designed a relational MySQL database with connected tables  
+### 🌍 Multi-Source ETL Pipeline (GANS) ⭐
+- End-to-end ETL pipeline integrating multiple APIs and datasets  
+- Designed relational MySQL database with 6 connected tables  
 - Automated data extraction, transformation, and loading processes  
 - Tools: Python, MySQL, OpenWeather API, AeroDataBox API  
 
@@ -52,7 +55,7 @@ My goal is to work on **data-driven products and analytics systems that support 
 ### 📊 E-commerce Discount Strategy Analysis
 - Analyzed impact of discounts on sales performance  
 - Identified optimal discount levels using Python  
-- Generated actionable business insights for revenue optimization  
+- Generated business insights for revenue optimization  
 
 ---
 
@@ -79,19 +82,17 @@ My goal is to work on **data-driven products and analytics systems that support 
 
 ---
 
-## 💡 Key Strengths
+## 📊 GitHub Stats
 
-- Data-driven problem solving  
-- Business insight generation  
-- Analytical thinking  
-- Structured reporting  
-- Curiosity for real-world systems  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keertikamanikandan&show_icons=true&theme=radical)
 
----
+## 🔥 Streak Stats
 
-## 📊 GitHub Stats (optional upgrade later)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keertikamanikandan&theme=radical)
 
-<!-- We can add stats widget here next -->
+## 🧪 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keertikamanikandan&layout=compact&theme=radical)
 
 ---
 
