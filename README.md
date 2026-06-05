@@ -84,15 +84,15 @@ My goal is to design **data-driven systems that support business decision-making
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keertikamanikandan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keertikamanikandan&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keertikamanikandan&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=keertikamanikandan&theme=radical&hide_border=true)
 
 ## 🧪 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keertikamanikandan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keertikamanikendan&layout=compact&theme=radical&langs_count=6&hide_border=true)
 
 ---
 
